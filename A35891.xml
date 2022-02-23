@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between the Arch-B. of C. and the Bishop of Heref. containing the true reasons why the bishops could not read the declaration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35891</idno>
+            <idno type="STC">Wing D1326</idno>
+            <idno type="STC">ESTC R25371</idno>
+            <idno type="EEBO-CITATION">08940593</idno>
+            <idno type="OCLC">ocm 08940593</idno>
+            <idno type="VID">42031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35891)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1281:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between the Arch-B. of C. and the Bishop of Heref. containing the true reasons why the bishops could not read the declaration.</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain.</term>
+               <term>Church and state --  Church of England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:42031:1" rendition="simple:additions"/>
+            <head>A <hi>Dialogue</hi> between the Arch-B. of <hi>C.</hi> and the Biſhop of <hi>Heref.</hi> Containing the true Reaſons why the Biſhops could not read the <hi>Declaration.</hi>
+            </head>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>With Allowance,</hi>
+                     </p>
+                     <closer>
+                        <date>July the 6th. 1688:</date>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>MY Lord, I am glad to ſee you, but I muſt deal plainly with you (as <hi>Paul</hi> did with <hi>Peter</hi>) and Rebuke you to your face, for your late Schiſmatical carriage.</p>
+            </sp>
+            <sp>
+               <speaker>Hereford,</speaker>
+               <p>Your Grace ſtartles me!</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Nay, <hi>my Lord,</hi> you have ſtartled me, and the reſt of my True-blue Bre<g ref="char:EOLhyphen"/>thren more, by your unexpected Separa<g ref="char:EOLhyphen"/>tion from our bleſſed Community. For when we entred into an holy Conſultation againſt the Lords Anointed, ſaying, <hi>Come, Let us break his Royal Command, and caſt the cords of all Obligations to Obedience from us.</hi> You proved a Diſſenter in this mat<g ref="char:EOLhyphen"/>ter, and publiſhed your Reaſons too for not bravely Diſobeying as we did. Where<g ref="char:EOLhyphen"/>by you have much damaged us; We look for ſome ſatisfaction as to this great and weighty Point.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>May it pleaſe your Grace, I am very ſorry if I have given you any juſt cauſe of Offence, which yet I am not Conſcious of. I have done nothing but what was my Duty, as a Chriſtian in ge<g ref="char:EOLhyphen"/>neral, and as a Member of the Church of <hi>England</hi> in eſpecial, from whom I have been taught to obey my Prince in all things that thwart not any declared Law of God; which no body of any ſenſe can ſay, the Reading his Majeſty's Declaration does: therefore I was bound to an exact Com<g ref="char:EOLhyphen"/>pliance, or elſe I could not have approved my ſelf a True Son of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>My Lord, 'Tis a ſign you have been long in the Country, you are ſo much a Stranger to our Intreagues here. We know, Reading the Declaration is in it ſelf an harmleſs thing, and the King ought to have been obeyed in it: but our Cir<g ref="char:EOLhyphen"/>cumſtances were ſo extraordinary, that we were forced to borrow a point of Obe<g ref="char:EOLhyphen"/>dience, and we promiſe the King (if He will take our Words) to pay him double at another time when we have more heart to it. As for inſtance, If his Majeſty did (Oh! that he would) forbear us, and have patience with us, till he Commanded us to enquire into our ſeveral Pariſhes what Diſſenters were Inhabiting or Lodg<g ref="char:EOLhyphen"/>ing there, and return their Names, that they might be forthwith Proſecuted againſt; He ſhould ſee what amends we would make him for the little Slip now, in our hearty and affectionate Obeying ſuch a for ever precious <hi>Order.</hi> We would make our Sullen Tongue-ty'd Prieſts open wide their Jaws, and cry aloud in the Publick Aſiemblies: <hi>Where the Word of a King is, there is Power, and who may ſay unto him, What doſt Thou?</hi> But to return, <hi>My Lord,</hi> to ſpeak <hi>inter nos;</hi> Our Controverſie with you, is not for obeying the Kings Com<g ref="char:EOLhyphen"/>mand, but for not Joyning with us. We are laying our Heads together, and make<g ref="char:EOLhyphen"/>ing uſe of all the Wit and Policy we have, and truly are bound to take up a little K. too upon Intereſt of ſome not far from us, (who have enough to ſpare) to ſupport the Grandeur of our declining Church. And we verily thought we ſhould have had your aid and aſſiſtance in this great Work. But you have finely given us the lurch. Well; 'tis no matter; I hope with what ſtrength we have (which I aſſure you is not ſmall) we ſhall do the thing without you. You heard how <hi>well</hi> we came <hi>off</hi> the other day.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>Yes, <hi>May it pleaſe your Grace,</hi> and I heard how Piouſly you came on. For before your appearing at the Council Board, <hi>your Grace,</hi> and the other Reverend Biſhops, went to Prayer. Now I have exactly read all the Prayers in our Ru<g ref="char:EOLhyphen"/>brick, and cannot find one Prayer proper to your Graces Condition at that juncture of time. And I know 'tis not your Graces Principle to uſe any other Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>My Lord,</hi> I am ſorry you are ſo ſhort-ſighted; I tell you there is a Prayer very pertinent to all our Conditions, which we made uſe of, and found great comfort and refreſhment in.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>Will your Grace vouchſafe to acquaint me with it, for I cannot imagine what Prayer it ſhould be.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>
+                  <hi>My Lord,</hi> 'Tis in the beginning of the <hi>Liturgy,</hi> and it ſeems to be Propheti<g ref="char:EOLhyphen"/>cally penn'd for our very Caſe at that time: It runs in the language of <hi>Confeſ<g ref="char:EOLhyphen"/>ſion,</hi> which beſt ſuited with us then. For though we would not acknowledge our Crime to <hi>Man,</hi> yet we confeſs'd our ſtate to <hi>God</hi> (according to the truth of it) in the following Words: <hi>We have erred and ſtrayed from thy ways like loſt ſheep; We have followed too much the Devices and De<g ref="char:EOLhyphen"/>fires of our own hearts; We have done thoſe things which we ought not to have done, and we left undone thoſe things which we ought to have done;</hi> (eſpecially the obeying our Sovereigns Juſt and moſt Righteous Com<g ref="char:EOLhyphen"/>mand)
+<pb facs="tcp:42031:2" rendition="simple:additions"/>
+                  <hi>And there is no health in us, and ſo the Lord have mercy upon us.</hi> And a great deal of Mercy we have found, in being delivered from our great and ſad Cala<g ref="char:EOLhyphen"/>mity, to the great Rejoycing of the Rab<g ref="char:EOLhyphen"/>ble and all the Scum of the City; and not only ſo, but a prodigious Miracle has been wrought for us in the midſt of our Ene<g ref="char:EOLhyphen"/>mies, to confirm the Truth of our Cauſe; Such a Miracle as former Ages never ſaw, and future Ages will very hardly believe.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>If your Grace pleaſe, I deſire to know it, I thought our Church lay'd no ſtreſs on Miracles.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>I, but my L. our Church being at a very low ebb, the Pillars of it ſtanding at the Barr, and for a Miracle to be wrought at ſuch a time, and upon ſuch an occaſion, we ſhould be blind indeed if we did not take notice of it.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>Will your Grace tell what it was.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>To the Honour of our Cauſe, the Glory of our Hierarchy, the truth of our Conſtitution be it ſpoken. The Lawyers Pockets (which were ever as tenacious as the <hi>Strgian</hi> Lake) could not hold our Guinea's, as ſoon as they had done their Work, they were compell'd by an unac<g ref="char:EOLhyphen"/>countable, and more than common Ma<g ref="char:EOLhyphen"/>gical <hi>Impetus,</hi> (contrary to the very na<g ref="char:EOLhyphen"/>ture of their Souls) to return back their Wages, their Stomachs on a ſudden were ſo ſqueamiſh they could not beat the ſight of our glittering Gold.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>This is ſtrange indeed, and may paſs for a Miracle, and ſo let it paſs for me! Will your Grace be pleaſed to tell me the Reaſons of your not Reading the <hi>Declara<g ref="char:EOLhyphen"/>tion.</hi> Was it really for fear of <hi>Popery</hi> get<g ref="char:EOLhyphen"/>ting uppermoſt?</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>No, No, <hi>My Lord,</hi> We are not ſo weak as to have any apprehenſion of that; only if we can (and there are no Endeavours wanting) gull the Mobilee into a belief that that is the great and true Reaſon, it may do us no diskindneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>Then, <hi>May it pleaſe your Grace,</hi> was it becauſe you ſcruple the <hi>Diſpenſing</hi> Power.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>No indeed, <hi>My Lord,</hi> nor for that neither. We are for Diſpenſing Power, Exalting Power, Stretching Power, any Power, always provided it be on our ſide, only we thought this the plauſibleſt pretence for our Diſobedience, becauſe we might fly to ſome Journals of Parlia<g ref="char:EOLhyphen"/>ment for Refuge from the Storm of Royal Thunder.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>If I may not be too bold with your Grace, I would humbly beg you to tell me the Right Reaſons, You do not know what Influence they may have up<g ref="char:EOLhyphen"/>on me.</p>
+            </sp>
+            <sp>
+               <speaker>Cant.</speaker>
+               <p>Why then, <hi>My Lord,</hi> you ſhall have them.</p>
+               <p>
+                  <hi>Firſt,</hi> We were againſt Reading the <hi>De<g ref="char:EOLhyphen"/>claration,</hi> becauſe we had no band in the making of it, nor was our Advice ever asked about it, and it is the nature of we Prelates to oppoſe every thing, that was not Originally hatched in our Noddles.</p>
+               <p>
+                  <hi>Secondly,</hi> Becauſe there runs ſuch a Vein of Mercy and Tenderneſs throughout the <hi>Decla.</hi> as is quite oppoſite to our form<g ref="char:EOLhyphen"/>er Practiſes, and preſent Principles. Indeed <hi>Solomon</hi> ſays, <hi>a Kings Throne is eſtabliſhed by Mercy;</hi> But alas! a Biſhops Throne would quickly be ruin'd by it. And tho we have often ventur'd ſhaking the Royal Throne by our irregular methods to pre<g ref="char:EOLhyphen"/>ſerve our ſelves, yet now our heart-break<g ref="char:EOLhyphen"/>ing Grief is, that we have a Prince too Sagacious to commit his Scepter into our violent hands.</p>
+               <p>
+                  <hi>Thirdly,</hi> The King has diſobliged us and we had no other way to manifeſt our Re<g ref="char:EOLhyphen"/>ſentments. <hi>To your Tents, O Iſrael,</hi> had been too open, and expoſed us to preſent danger; and therefore we thought it Pru<g ref="char:EOLhyphen"/>dence to begin with ſcrupling and que<g ref="char:EOLhyphen"/>ſtioning his Authority, and if we eſcape (as I don't much doubt it) with this, we may more confidently proceed to higher things afterwards.</p>
+               <p>
+                  <hi>Fourthly,</hi> There is a neceſſity of our be<g ref="char:EOLhyphen"/>coming <hi>Popular</hi> (tho we heretofore ſo much reclaimed againſt it) as matters now ſtand with us, and there was no way to effect it like this. For upon our refuſing to Read the Declaration, we could not but ſuppoſe we ſhould be queſtioned for it, then twas but giving out we were ſufferring for the <hi>Proteſtant Religion,</hi> becauſe we would not joyn with the Papiſts (as the Diſſenter do at this day) and the giddy-headed multi<g ref="char:EOLhyphen"/>tude we knew well enough would ſoon take the Alarm and cry us up to the Skies in their <hi>Huzzas. Theſe are the only men that ſtand up for the</hi> Proteſtant Religion, <hi>we ſhould all be</hi> Papiſts <hi>if it were not for ſuch as theſe.</hi> Now as we Projected we have gained the point of being the <hi>Moblies Darlings.</hi>
+               </p>
+               <p>
+                  <hi>Fiftly,</hi> We did not Read the <hi>Declaration</hi> becauſe our Sovereigns Sentiments and ours are ſo vaſtly differing. He is not for conſtraining Conſcience, ay, but we are. He is for no mans ſuffering for Religion, but we are for every Bodies ſuffering that cannot come up to every Gim-crack of our Worſhip. And hence it is againſt our Natures. Conſciences, as well as Intereſt to read Liberty to thoſe People whom we would always have kept in bondage unto us.</p>
+            </sp>
+            <sp>
+               <speaker>Heref.</speaker>
+               <p>May it pleaſe your Grace, if theſe be (as believe they are) the real reaſons of your diſobeying his Majeſty's Command, as to the Reading His moſt Gratious De<g ref="char:EOLhyphen"/>claration, I muſt beg your pardon to re<g ref="char:EOLhyphen"/>main in the choice I have made, <hi>A true Son of the</hi> Church of England, <hi>and an obedi<g ref="char:EOLhyphen"/>ent Subject to the King my Maſter.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>L. P.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
